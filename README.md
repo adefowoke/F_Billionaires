@@ -23,4 +23,8 @@ Asides the obvious who the richest man was (Jeff Bezos), the following informati
 
 With further anaalysis into the continent of North America, it showed USA is the major contributor of about 90% in all
 
+![usa](https://user-images.githubusercontent.com/35836370/151636987-9caeb3c6-c292-48a1-889e-4b2211e2e129.png)
+
+Getting the sum net worth of each gender per country
+
 
