@@ -6,9 +6,17 @@ After going through the process of data cleaning and manipulation of the data se
 ## SUMMARY
 NB: I used the first 100 rows for my analysis. why? you might ask, to allow for encompassing of other countries especially from Africa
 Asides the obvious who the richest man was (Jeff Bezos), the following information was made to light:
+- Asia as a continent has the highest number of male billionaires and highest number of billionaires
+- while North America has the highest female billionaires
 - There were no female billionaire from Africa in the top 100, while there were no male billionaire from continent Oceania. 
 - Nigeria(Africa) is the only country that produced a male billionaire from Africa by the name Aliko Dangote.
 - China is the only country to have female billionaire from the continet Asia
 - United States has the highest count of billionaire for both genders {f:4,m:27} as a country
 
 *The plot below shows the count of male and female billionaire per continent*
+
+![Gender_Count_Continent](https://user-images.githubusercontent.com/35836370/151636009-b8c53537-2871-4b53-b29f-d795d18c8c48.png)
+
+- Even thou Asia has the largest number of billlionaires, the total net worth is almost half of that of North America. This is depicted graphically 
+
+
