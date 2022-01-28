@@ -1,2 +1,14 @@
 ## Forbes List Of Billionaires For The Year 2018
-[Kaggle Dataset ](https://www.kaggle.com/jaytilala/forbes-worlds-billionaires-in-2018/download)
+You can download: [Kaggle Dataset ](https://www.kaggle.com/jaytilala/forbes-worlds-billionaires-in-2018/download) 
+
+After going through the process of data cleaning and manipulation of the data set from kaggle, here are the insights I was ablae to gleam from it, to see the manipulation process, please check the .ipynb file.
+
+## SUMMARY
+NB: I used the first 100 rows for my analysis. why? you might ask, to allow for encompassing of other countries especially from Africa
+Asides the obvious who the richest man was (Jeff Bezos), the following information was made to light:
+- There were no female billionaire from Africa in the top 100, while there were no male billionaire from continent Oceania. 
+- Nigeria(Africa) is the only country that produced a male billionaire from Africa by the name Aliko Dangote.
+- China is the only country to have female billionaire from the continet Asia
+- United States has the highest count of billionaire for both genders {f:4,m:27} as a country
+
+*The plot below shows the count of male and female billionaire per continent*
