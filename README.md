@@ -19,4 +19,8 @@ Asides the obvious who the richest man was (Jeff Bezos), the following informati
 
 - Even thou Asia has the largest number of billlionaires, the total net worth is almost half of that of North America. This is depicted graphically 
 
+![worth_cont](https://user-images.githubusercontent.com/35836370/151636608-34ffa595-7da6-4bdf-b6a2-9458bb819931.png)
+
+With further anaalysis into the continent of North America, it showed USA is the major contributor of about 90% in all
+
 
