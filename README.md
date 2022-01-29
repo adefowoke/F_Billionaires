@@ -31,4 +31,4 @@ Getting the sum net worth of each gender per country showed USA had the highest 
 
 Taking a look at USA economy, showed that the Technology industry had the highest number of billionaires, followed by Finance and Investment, and then Fashion.
 
-
+![usa_ind](https://user-images.githubusercontent.com/35836370/151637570-44a1b2c8-cd2f-48e2-9cc2-8a5634bc703a.png)
