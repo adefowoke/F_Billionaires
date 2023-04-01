@@ -1,5 +1,15 @@
-## Forbes List Of Billionaires For The Year 2018
-You can download: [Kaggle Dataset ](https://www.kaggle.com/jaytilala/forbes-worlds-billionaires-in-2018/download) 
+<h3> Forbes List Of Billionaires For The Year 2018 </h3>
+You can download the dataset on <a href = "https://www.kaggle.com/jaytilala/forbes-worlds-billionaires-in-2018/download"> Kaggle</a>
+<h4>Problem Statements</h4>
+<ol>
+  <li>Which Continent has the highest number of billionaires</li>
+  <li>Which country has the highest number of billionaires</li>
+  <li>Which Continent has the highest number of male and female billionaires</li>
+  <li>Which Industry has the highest number of billionaires</li>
+  <li>Which Sector has more female billionaires</li>
+  <li>The Continent and COuntry with the highest billionaires have what sector predominantly</li>
+</ol>
+<h4>Data Transformation/Cleaning</h4>
 
 After going through the process of data cleaning and manipulation of the data set from kaggle, here are the insights I was ablae to gleam from it, to see the manipulation process, please check the .ipynb file.
 
