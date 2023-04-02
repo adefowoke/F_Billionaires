@@ -1,6 +1,8 @@
 <h3> Forbes List Of Billionaires For The Year 2018 </h3>
 You can download the dataset on <a href = "https://www.kaggle.com/jaytilala/forbes-worlds-billionaires-in-2018/download"> Kaggle</a>
-<h4>Problem Statements</h4>
+<dataset>
+  <summary>
+    <h4>Problem Statements</h4>
 <ol>
   <li>Which Continent has the highest number of billionaires</li>
   <li>Which country has the highest number of billionaires</li>
@@ -9,7 +11,24 @@ You can download the dataset on <a href = "https://www.kaggle.com/jaytilala/forb
   <li>Which Sector has more female billionaires</li>
   <li>The Continent and COuntry with the highest billionaires have what sector predominantly</li>
 </ol>
+    </summary>
+  </dataset>
 <h4>Data Transformation/Cleaning</h4>
+The programming language used for sourcing data and data transformation is python, the IDE used is jupyter notebook. The dataset consists of 2257 rows and 12 columna. The column names include
+<ul>  		 	 	 	 	 		 	 	 	
+  <li>Rank</li>
+  <li>Name </li>
+  <li>Age</li>
+  <li>Source</li>
+  <li>Industry/li>
+  <li>Gender</li>
+  <li>Continent</li>
+  <li>Country </li>
+  <li>Headquarters</li>
+  <li>State</li>
+  <li>Net Worth</li>
+  <li>Title</li>
+</ul>
 
 After going through the process of data cleaning and manipulation of the data set from kaggle, here are the insights I was ablae to gleam from it, to see the manipulation process, please check the .ipynb file.
 
