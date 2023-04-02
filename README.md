@@ -1,21 +1,28 @@
 <h3> Forbes List Of Billionaires For The Year 2018 </h3>
-You can download the dataset on <a href = "https://www.kaggle.com/jaytilala/forbes-worlds-billionaires-in-2018/download"> Kaggle</a>
-<dataset>
+You can download the dataset on <a href = "https://www.kaggle.com/jaytilala/forbes-worlds-billionaires-in-2018/download"> Here</a>
+<details>
   <summary>
     <h4>Problem Statements</h4>
-<ol>
-  <li>Which Continent has the highest number of billionaires</li>
-  <li>Which country has the highest number of billionaires</li>
-  <li>Which Continent has the highest number of male and female billionaires</li>
-  <li>Which Industry has the highest number of billionaires</li>
-  <li>Which Sector has more female billionaires</li>
-  <li>The Continent and COuntry with the highest billionaires have what sector predominantly</li>
-</ol>
-    </summary>
-  </dataset>
-<h4>Data Transformation/Cleaning</h4>
-The programming language used for sourcing data and data transformation is python, the IDE used is jupyter notebook. The dataset consists of 2257 rows and 12 columna. The column names include
-<ul>  		 	 	 	 	 		 	 	 	
+  </summary>
+      <ol>
+        <li>Which Continent has the highest number of billionaires</li>
+        <li>Which country has the highest number of billionaires</li>
+        <li>Which Continent has the highest number of male and female billionaires</li>
+        <li>Which Industry has the highest number of billionaires</li>
+        <li>Which Sector has more female billionaires</li>
+        <li>The Continent and Country with the highest billionaires have what sector predominantly</li>
+        <li>Top 3 Continents to look for investments</li>
+        <li>Top 5 Countries to consider investing</li>
+        <li>Top 5 industries to consider investing</li>
+     </ol>  
+</details>
+<details>
+  <summary>
+    <h4>Data Transformation/Cleaning</h4>
+  </summary>
+    <p>The programming language used for sourcing data and data transformation is python, the IDE used is jupyter notebook. The dataset consists of 2257        rows and 12 columna. The column names include
+    </p>
+  <ul>  		 	 	 	 	 		 	 	 	
   <li>Rank</li>
   <li>Name </li>
   <li>Age</li>
@@ -28,7 +35,9 @@ The programming language used for sourcing data and data transformation is pytho
   <li>State</li>
   <li>Net Worth</li>
   <li>Title</li>
-</ul>
+  </ul>
+</details>
+
 
 After going through the process of data cleaning and manipulation of the data set from kaggle, here are the insights I was ablae to gleam from it, to see the manipulation process, please check the .ipynb file.
 
